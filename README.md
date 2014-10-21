@@ -18,7 +18,7 @@ A small script to embed [public notes](http://www.documentcloud.org/help/notes) 
 ## Use
 Load the css and jQuery in your head:
 ```html
-<link rel="stylesheet" type="text/css" href="css/times/document-cloud-for-times.css">
+<link rel="stylesheet" type="text/css" href="css/documentcloud-dropdownify.css">
 <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 ```
 Put the js file all the way at the bottom of your body:
