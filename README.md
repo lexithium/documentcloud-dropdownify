@@ -7,7 +7,7 @@ A small script to embed [public notes](http://www.documentcloud.org/help/notes) 
 `NOTE: This script is optimized for the Tampa Bay Times's website and CMS. That means it has a lot of weird hacks that aren't necessary for other CMS's and definitely not for flat files.`
 
 ## I still have no idea what you're talking about
-[Here's an example of what you'll be making.](http://www.washingtonpost.com/sf/investigative/2014/10/11/cash-seizures-fuel-police-spending/) Go to any of the highlighted sentences and click them to see similar functionality.
+[Here's an example of what you'll be making.](http://www.tampabay.com/news/specials/tampa-homeless-program-uses-unpaid-destitute-residents-as-steady-labor/2208350) Go to any of the highlighted sentences and click them to see similar functionality.
 
 ## Ingredients
 - `documentcloud-dropdownify.css`
